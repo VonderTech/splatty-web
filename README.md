@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Splatty
+
+![Build Status](https://github.com/VonderTech/splatty-web/actions/workflows/frontend.yml/badge.svg)
+![Dependabot Status](https://img.shields.io/badge/Dependabot-enabled-brightgreen.svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d1390fe6bc114d58aa0f7300f18e803a)](https://app.codacy.com/gh/VonderTech/splatty-web/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+![GitHub last commit](https://img.shields.io/github/last-commit/VonderTech/splatty-web)
+![GitHub issues](https://img.shields.io/github/issues/VonderTech/splatty-web)
 
 ## Getting Started
 
