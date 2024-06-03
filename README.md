@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f41d53c7b7c44dfc89802c28f756dd88)](https://app.codacy.com/gh/VonderTech/splatty-web?utm_source=github.com&utm_medium=referral&utm_content=VonderTech/splatty-web&utm_campaign=Badge_Grade)
+
 First, run the development server:
 
 ```bash
