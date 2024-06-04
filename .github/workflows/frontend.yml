@@ -1,4 +1,4 @@
-name: Frontend integration pipeline
+name: splatty-web
 
 on:
   push:
@@ -26,3 +26,6 @@ jobs:
 
       - name: Build project
         run: npm run build
+
+      - name: Codacy Analysis CLI
+        uses: codacy/codacy-analysis-cli-action@v4.4.0
